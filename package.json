@@ -1,0 +1,39 @@
+{
+  "title": "Portfolio | Simon Siva",
+  "name": "ssiva_portfolio",
+  "version": "1.0.0",
+  "description": "Simon Siva's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/main.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssiva13/ssiva13.github.io.git"
+  },
+  "keywords": [
+    "Simon",
+    "Siva",
+    "Simon",
+    "simonsiva",
+    "Ssiva",
+    "Sivasimon",
+    "ssiva13",
+    "portfolio",
+    "developer",
+  ],
+  "author": "Simon Siva",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ssiva13/ssiva13.github.io/issues"
+  },
+  "homepage": "https://github.com/ssiva13/ssiva13.github.io#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.0"
+  }
+}
